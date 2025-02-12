@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class LibraryManagmentApplication {
+public class LibraryManagmentApplication {                                     //just checking
     public static void main(String[] args) {
         SpringApplication.run(LibraryManagmentApplication.class, args);
     }

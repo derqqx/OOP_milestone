@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import java.util.List;
 
 @Entity
-public class Library {
+public class Library {                                                      //just checking
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
